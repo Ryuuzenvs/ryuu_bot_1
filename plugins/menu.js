@@ -11,7 +11,7 @@ import path from 'path';
    CONFIG (MUDAH DIGANTI)
 ========================= */
 
-const GROUP_LINK = 'https://www.whatsapp.com/channel/0029VaDSRuf05MUekJbazP1D';
+const GROUP_LINK = '';
 const ENABLE_MENU_AUDIO = true;
 
 const MENU_MEDIA_TYPE = 'image'; // image / video / gif
@@ -237,9 +237,7 @@ async function handle(sock, messageInfo) {
 
   /* ========= AUDIO MENU ========= */
 
-  if (command === 'allmenu' || (command === 'menu' && !category)) {
-    await sendMenuAudio(sock, remoteJid, result);
-  }
+ 
 }
 
 /* =========================
