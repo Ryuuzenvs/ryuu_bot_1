@@ -3,11 +3,11 @@
     "createdAt": "15/03/2026",
     "members": {
       "52266128146652@lid": 7,
-      "6285809839062@s.whatsapp.net": 260,
+      "6285809839062@s.whatsapp.net": 263,
       "6285281198746@s.whatsapp.net": 8,
       "6283157116089@s.whatsapp.net": 13,
       "6285748357327@s.whatsapp.net": 24,
-      "6282170639694@s.whatsapp.net": 68,
+      "6282170639694@s.whatsapp.net": 84,
       "6285293726774@s.whatsapp.net": 4
     }
   },
@@ -21,6 +21,12 @@
   },
   "120363417950786941@g.us": {
     "createdAt": "15/03/2026",
+    "members": {
+      "6285809839062@s.whatsapp.net": 5
+    }
+  },
+  "120363409114762800@g.us": {
+    "createdAt": "16/03/2026",
     "members": {
       "6285809839062@s.whatsapp.net": 5
     }
