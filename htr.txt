@@ -3,3 +3,5 @@ node index.js > bot.log 2>&1
 pm2 start index.js --name "my-bot"
 pm2 list
 om2 stop
+
+node index.js

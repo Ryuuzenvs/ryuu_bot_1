@@ -6,7 +6,7 @@
     ],
     "money": 0,
     "limit": 0,
-    "level_cache": 45,
+    "level_cache": 52,
     "level": 1,
     "role": "user",
     "achievement": "gamers",
@@ -16,7 +16,7 @@
       "alasan": null
     },
     "createdAt": "2026-03-15T04:31:38.501Z",
-    "updatedAt": "2026-03-16T04:58:04.495Z"
+    "updatedAt": "2026-03-16T10:13:44.640Z"
   },
   "7ee8fdc0adb70bf819cefc3af61": {
     "username": "user_52266128146652@lid",
@@ -44,7 +44,7 @@
     ],
     "money": 8,
     "limit": 4,
-    "level_cache": 5,
+    "level_cache": 6,
     "level": 4,
     "role": "user",
     "achievement": "gamers",
@@ -54,7 +54,7 @@
       "alasan": null
     },
     "createdAt": "2026-03-15T04:33:33.060Z",
-    "updatedAt": "2026-03-16T09:42:13.083Z",
+    "updatedAt": "2026-03-16T10:14:31.470Z",
     "lastClaim": 1773555150702
   },
   "8ecc25c584cc3bad19cefc63525": {
